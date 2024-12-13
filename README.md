@@ -1,8 +1,6 @@
 # YouTube AI Video Summarizer
 A modern web application that automatically generates concise summaries from YouTube videos using Facebook's BART Large Model.
 
-https://youtube-ai-video-summarizer-app-dd2zsfwmum5atghhzidm9b.streamlit.app/
-
 <img width="981" alt="Screenshot 2024-12-13 at 5 27 43 PM" src="https://github.com/user-attachments/assets/70b0526f-7f1e-41a8-8e36-a1780a8255dc" />
 
 
